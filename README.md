@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthadfield113" alt="matthadfield113" /></a> </p>
 
-- 🔭 I’m currently working for [LogicBarn](https://www.logicbarn.com)
+- 🔭 I’m currently looking for new work.
 
-- 🌱 I’m currently learning **Laravel, Devops and Docker**
+- 🌱 I’m currently learning **K8**
 
-- 📫 How to reach me **matthew@logicbarn.com**
+- 📫 How to reach me **me@matty.work**
 
 - ⚡ Fun fact **Im also a heritage railway volunteer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matthew-hadfield-logicbarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-hadfield-logicbarn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matthew-hadfield-uk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-hadfield-logicbarn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
