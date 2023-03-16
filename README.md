@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthadfield113" alt="matthadfield113" /></a> </p>
 
-- 🔭 I’m currently looking for new work.
+- 🔭 I’m currently working at <a href="https://www.synergitech.co.uk">**Synergi Tech**</a>.
 
 - 🌱 I’m currently learning **K8**
 
